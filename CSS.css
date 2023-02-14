@@ -1,0 +1,85 @@
+/* <style>
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+</style> */
+
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+/* border: 3px solid #ff33ae; */
+}
+
+/* ff33ae */
+.header{
+    background-color: #ff33ae;
+    padding: 60px;
+    
+    
+}
+.Border{
+    background-color:white ;
+    padding: 15px;
+    margin: 90px;
+    /* display: flex; */
+    /* border: 1px solid whitesmoke; */
+    box-shadow: 10px 10px 10px 10px lightgrey;
+}
+
+.Inputadd{
+display: flex;
+justify-content: space-between;
+
+}
+
+input{
+    padding: 5px;
+
+
+}
+
+button{
+    padding: 5px;
+    /* margin: auto; */
+
+    background-color: #ff33ae;
+    color: white;
+    border-color: #ff33ae;
+    border-radius: 3px;
+    font-size: 15px;
+   
+}   
+
+/* nöchste contaienr */
+
+.Container{
+    margin: 90px;
+    margin-top: 80px;
+}
+
+.Contaienr1{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    
+    
+    
+}
+.Contaienr2{
+    border: 1px solid black;
+   display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+   
+
